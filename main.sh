@@ -1,0 +1,1 @@
+chromium-browser --verbose --no-sandbox --max_old_space_size 8124 youtube.com
